@@ -33,10 +33,6 @@
           "run_instance_count": null,
           "timeout": 0,
           "tasks": [
-            {
-              "type": "exec",
-              "command": "ls"
-            }
           ]
         }
       ]
